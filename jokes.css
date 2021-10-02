@@ -1,0 +1,16 @@
+.jokes-container {
+    max-width: 400px;
+    margin: 10px 0;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 5px 4px 18px #00000091;
+}
+
+.jokes-container h2{
+    font-size: 20px;
+    margin: 5px 0 10px 0;
+
+}
+
+.jokes {font-size: 16px;
+}
